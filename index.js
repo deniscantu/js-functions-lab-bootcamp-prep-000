@@ -1,5 +1,5 @@
 // write your code below!
-var holiday
+var holiday  = 'Mother's Day'
 
 function happyHolidays () {
   return `Happy holidays!`
