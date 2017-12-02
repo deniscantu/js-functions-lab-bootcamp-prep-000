@@ -2,7 +2,7 @@
 var holiday = "Mother's Day"
 
 function happyHolidays () {
-  return "Happy holidays!"
+  return `Happy holidays!`
 }
 
  function happyHolidaysTo (name) {
